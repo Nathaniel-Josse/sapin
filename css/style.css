@@ -1,0 +1,20 @@
+body{
+    background: black;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin: auto;
+}
+.orange{
+    color: rgb(255, 186, 57);
+}
+.vert{
+    color: green;
+}
+.rouge{
+    color: darkred;
+}
